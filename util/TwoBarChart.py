@@ -14,7 +14,7 @@ def draw(men, women):
     # add some text for labels, title and axes ticks
     ax.set_ylim([0,topval + (topval*0.15)]) # 15% buffer
     ax.set_ylabel('Words')
-    ax.set_title('Spoken words by gender')
+    ax.set_title('Spoken words by gender (approximate)')
     ax.set_xticks(ind)
     ax.set_xticklabels(['Men', 'Women'])
 
