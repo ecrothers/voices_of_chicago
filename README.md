@@ -34,6 +34,8 @@ A more rigorous transcription of the script and association of each line would y
 
 ### Final breakdown 
 
-```Male characters: approximately 4791 words
+```
+Male characters: approximately 4791 words
 Female characters: approximately 6317 words
-Unassigned: approximately 79 words```
+Unassigned: approximately 79 words
+```
