@@ -16,7 +16,6 @@ wget https://bootstrap.pypa.io/get-pip.py
 python3 get-pip.py
 sudo pip3 install numpy
 sudo pip3 install matplotlib
-
 ```
 
 ## Methodology
@@ -35,6 +34,9 @@ A more rigorous transcription of the script and association of each line would y
 
 ### Final breakdown 
 
+```
 Male characters: approximately 4791 words
 Female characters: approximately 6317 words
 Unassigned: approximately 79 words
+```
+![Graph of results](https://github.com/ecrows/voices_of_chicago/blob/master/util/results.png)
