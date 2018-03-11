@@ -39,4 +39,4 @@ Male characters: approximately 4791 words
 Female characters: approximately 6317 words
 Unassigned: approximately 79 words
 ```
-![Graph of results](https://github.com/ecrows/voices_of_chicago/blob/master/util/results.png)
+![Graph of results](https://github.com/ecrows/voices_of_chicago/blob/93131d89925f6ea755a27373666fab325e92c05c/util/results.png?raw=true)
