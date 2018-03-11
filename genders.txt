@@ -1,0 +1,59 @@
+M:Fred Casely
+F:Roxie Hart and company
+M:The Judge
+F:Hunyak
+F:Velma, Girls
+F:Hunyak screams off-camera
+M:Billy Flinn
+F:All without Annie
+M:man looking for Kelly sisters
+F:All without Mona
+M:Court clerk
+F:Mrs. Borusewicz
+F:Mama Morton
+B:The Jury
+F:Roxie Hart (recitative whisper)
+M:The judge
+F:All Murderess's
+F:Roxie Hart and Velma Kelly
+M:Reporter
+F:Mona
+B:Billy Flynn and Mary Sunshine
+M:Voice off-camera
+B:Company
+F:June
+F:Girls
+B:Crowd
+M:Announcer
+F:Roxie Hart
+F:Both
+M:Doctor
+M:Dance Captain?
+F:Liz, girls
+F:Mary Sunshine
+M:Billy Flynn
+M:Boy
+M:Reporters
+F:Velma
+F:Velma Kelly
+F:Velma, June, Hunyak
+M:Charlie driver
+M:Sergeant Fogarty
+M:Amos Hart
+F:Roxie
+F:Roxie Hart and comapny
+M:Announcer, voice off-camera
+M:Warden
+F:Secretary
+F:Annie
+F:Liz
+M:Man
+M:Man I
+M:Billy Flynn, girls
+F:Neighbor
+F:Annie Baxter
+M:Martin Harrison
+B:All
+M:Photographer
+M:Dance Captain
+M:Man II
