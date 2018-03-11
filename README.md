@@ -1,6 +1,6 @@
 # Voices of "Chicago"
 
-Breakdown of lines by gender within the 2002 movie "Chicago".  Inspired by the [Polygraph project on Dialogue and Film](http://polygraph.cool/films/embed.html).  From the results, it appears to be the only movie to win "Best Picture" in over 25 years with more words spoken by female characters than male characters.
+Breakdown of lines by gender within the 2002 movie "Chicago".  Inspired by the [Polygraph project on Dialogue and Film](http://polygraph.cool/films/embed.html).  From the results, it appears to be the only movie to win "Best Picture" in the last 25+ years with more words spoken by female characters than male characters.
 
 ## Requirements
 
