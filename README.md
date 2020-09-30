@@ -30,7 +30,7 @@ In the musical number "All I Care About Is Love", lines attributed to "Billy Fly
 
 A more rigorous transcription of the script and association of each line would yield more exact results, but the provided data is sufficient to identify the overall division of lines.
 
-## Results
+## Outcome
 
 ### Final breakdown 
 
